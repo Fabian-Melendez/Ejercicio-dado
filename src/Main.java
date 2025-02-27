@@ -31,5 +31,7 @@ public class Main {
         }else{
             System.out.println("el dado que mas sumo fue el dado2");
         }
+        System.out.println("Dado 1 sumó= "+ sumadd1);
+        System.out.println("Dado 2 sumó= "+ sumadd2);
     }
 }
